@@ -9,7 +9,7 @@ import java.io.FileOutputStream
 import java.nio.ByteBuffer
 
 /**
- * Created by guxiuzhong@baidu.com on 2021/3/20.
+ * Created by guxiuzhong on 2021/3/20.
  */
 object MIXUtil {
 
