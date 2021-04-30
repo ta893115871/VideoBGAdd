@@ -6,7 +6,7 @@ import java.io.FileInputStream
 import java.io.FileOutputStream
 
 /**
- * Created by guxiuzhong@baidu.com on 2021/3/20.
+ * Created by guxiuzhong on 2021/3/20.
  */
 object FileUtil {
 
