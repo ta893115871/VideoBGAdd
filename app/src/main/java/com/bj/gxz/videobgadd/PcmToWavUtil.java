@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
- * Created by guxiuzhong@baidu.com on 2021/2/13.
+ * Created by guxiuzhong on 2021/2/13.
  */
 public class PcmToWavUtil {
     // 采样率
